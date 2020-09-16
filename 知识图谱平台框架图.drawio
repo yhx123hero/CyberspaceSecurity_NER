@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-16T01:50:27.655Z" agent="5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.81 Safari/537.36 SE 2.X MetaSr 1.0" etag="tjrTAkcHojPBqkzsJcWB" version="13.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-16T01:54:31.849Z" agent="5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.81 Safari/537.36 SE 2.X MetaSr 1.0" etag="mG5UPo3w5YMhcbXvCVx5" version="13.7.1" type="github">
   <diagram id="0d7cefc2-ccd6-e077-73ed-a8e48b0cddf6" name="Page-1">
-    <mxGraphModel dx="1330" dy="776" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1900" dy="1109" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -205,23 +205,35 @@
             <mxPoint x="1050" y="316" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6" value="Application component" style="rounded=0;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=2;fillColor=#EBC01A;gradientColor=none;fontSize=12;fontColor=#4277BB;align=left;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;spacingLeft=5;" parent="2" vertex="1">
-          <mxGeometry x="10" y="30" width="20" height="10" as="geometry" />
+        <mxCell id="13" value="图例" style="text;html=1;align=left;verticalAlign=middle;fontColor=#4277BB;shadow=0;dashed=0;strokeColor=none;fillColor=none;labelBackgroundColor=none;fontStyle=1;fontSize=22;spacingLeft=0;" parent="2" vertex="1">
+          <mxGeometry x="10" y="6" width="150" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="7" value="Infrastructure services" style="rounded=0;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=2;fillColor=#8DC642;gradientColor=none;fontSize=12;fontColor=#4277BB;align=left;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;spacingLeft=5;" parent="2" vertex="1">
-          <mxGeometry x="10" y="50" width="20" height="10" as="geometry" />
+        <mxCell id="xIBIwLFiV7QvSY9EjHSz-177" value="" style="html=1;labelBackgroundColor=#ffffff;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontSize=14;endArrow=none;endFill=0;" edge="1" parent="2">
+          <mxGeometry width="60" height="60" relative="1" as="geometry">
+            <mxPoint x="25" y="48" as="sourcePoint" />
+            <mxPoint x="45" y="48" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="8" value="Management" style="rounded=0;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=2;fillColor=#0DB39D;gradientColor=none;fontSize=12;fontColor=#4277BB;align=left;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;spacingLeft=5;" parent="2" vertex="1">
-          <mxGeometry x="10" y="70" width="20" height="10" as="geometry" />
+        <mxCell id="xIBIwLFiV7QvSY9EjHSz-178" value="功能流程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="2">
+          <mxGeometry x="54" y="36" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="9" value="Data store" style="rounded=0;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=2;fillColor=#335D81;gradientColor=none;fontSize=12;fontColor=#4277BB;align=left;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;spacingLeft=5;" parent="2" vertex="1">
-          <mxGeometry x="10" y="90" width="20" height="10" as="geometry" />
+        <mxCell id="xIBIwLFiV7QvSY9EjHSz-179" value="" style="html=1;labelBackgroundColor=#ffffff;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontSize=14;endArrow=none;endFill=0;strokeColor=#0066CC;" edge="1" parent="2">
+          <mxGeometry width="60" height="60" relative="1" as="geometry">
+            <mxPoint x="24.999999999999886" y="78" as="sourcePoint" />
+            <mxPoint x="44.999999999999886" y="78" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="13" value="图例" style="text;html=1;align=left;verticalAlign=middle;fontColor=#4277BB;shadow=0;dashed=0;strokeColor=none;fillColor=none;labelBackgroundColor=none;fontStyle=1;fontSize=14;spacingLeft=0;" parent="2" vertex="1">
-          <mxGeometry x="10" width="150" height="20" as="geometry" />
+        <mxCell id="xIBIwLFiV7QvSY9EjHSz-180" value="拓扑连接" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="2">
+          <mxGeometry x="54" y="66" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="102" value="Scalable" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=left;shadow=0;image;image=img/lib/ibm/miscellaneous/scalable.svg;rounded=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=2;fillColor=#335D81;gradientColor=none;fontSize=12;fontColor=#4277BB;verticalAlign=middle;spacingLeft=7;labelPosition=right;verticalLabelPosition=middle;" parent="2" vertex="1">
-          <mxGeometry x="13" y="108" width="15" height="15" as="geometry" />
+        <mxCell id="xIBIwLFiV7QvSY9EjHSz-181" value="" style="shape=flexArrow;endArrow=classic;html=1;strokeColor=#6c8ebf;fontSize=15;width=3.611111111111111;endSize=5.5;endWidth=8.966049382716049;fillColor=#dae8fc;" edge="1" parent="2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="20" y="106" as="sourcePoint" />
+            <mxPoint x="50" y="106" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xIBIwLFiV7QvSY9EjHSz-182" value="硬件支撑" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="2">
+          <mxGeometry x="54" y="96" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
