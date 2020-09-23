@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-23T02:45:42.878Z" agent="5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.81 Safari/537.36 SE 2.X MetaSr 1.0" etag="UMGDgzyf5WltK7ObX1Zz" version="13.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-23T02:48:14.657Z" agent="5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.81 Safari/537.36 SE 2.X MetaSr 1.0" etag="7RLRz8yQBqTWvdLoYqck" version="13.7.4" type="github">
   <diagram name="Page-1" id="42789a77-a242-8287-6e28-9cd8cfd52e62">
-    <mxGraphModel dx="1987" dy="1051" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000" pageHeight="750" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2366" dy="1486" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000" pageHeight="750" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -80,7 +80,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CKi8Rcar63tC_sLCUCNe-19" value="" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;fontSize=17;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="CKi8Rcar63tC_sLCUCNe-19" value="" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;fontSize=17;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
           <mxGeometry x="870" y="268" width="66.66" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CKi8Rcar63tC_sLCUCNe-20" value="" style="endArrow=classic;html=1;strokeColor=#000000;fontSize=17;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="CKi8Rcar63tC_sLCUCNe-19">
@@ -126,13 +126,13 @@
         <mxCell id="CKi8Rcar63tC_sLCUCNe-28" value="" style="ellipse;whiteSpace=wrap;html=1;fontSize=17;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="530" y="488" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CKi8Rcar63tC_sLCUCNe-29" value="" style="ellipse;whiteSpace=wrap;html=1;fontSize=17;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+        <mxCell id="CKi8Rcar63tC_sLCUCNe-29" value="" style="ellipse;whiteSpace=wrap;html=1;fontSize=17;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" vertex="1" parent="1">
           <mxGeometry x="630" y="488" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CKi8Rcar63tC_sLCUCNe-30" value="" style="ellipse;whiteSpace=wrap;html=1;fontSize=17;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="730" y="488" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CKi8Rcar63tC_sLCUCNe-31" value="" style="ellipse;whiteSpace=wrap;html=1;fontSize=17;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="CKi8Rcar63tC_sLCUCNe-31" value="" style="ellipse;whiteSpace=wrap;html=1;fontSize=17;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" vertex="1" parent="1">
           <mxGeometry x="836.66" y="488" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CKi8Rcar63tC_sLCUCNe-32" value="" style="ellipse;whiteSpace=wrap;html=1;fontSize=17;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
@@ -142,6 +142,11 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="260" y="618" as="sourcePoint" />
             <mxPoint x="310" y="568" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CKi8Rcar63tC_sLCUCNe-75" value="Knowledge&lt;br style=&quot;font-size: 14px;&quot;&gt;distillation" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontFamily=Times New Roman;" vertex="1" connectable="0" parent="CKi8Rcar63tC_sLCUCNe-33">
+          <mxGeometry x="0.24" y="1" relative="1" as="geometry">
+            <mxPoint y="7" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CKi8Rcar63tC_sLCUCNe-34" value="" style="endArrow=classic;html=1;strokeColor=#000000;fontSize=17;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CKi8Rcar63tC_sLCUCNe-5" target="CKi8Rcar63tC_sLCUCNe-7">
@@ -173,7 +178,7 @@
             <mxPoint x="280" y="348" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CKi8Rcar63tC_sLCUCNe-53" value="Cross-lingual" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;fontFamily=Times New Roman;" vertex="1" connectable="0" parent="CKi8Rcar63tC_sLCUCNe-44">
+        <mxCell id="CKi8Rcar63tC_sLCUCNe-53" value="Cross-lingual" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontFamily=Times New Roman;" vertex="1" connectable="0" parent="CKi8Rcar63tC_sLCUCNe-44">
           <mxGeometry x="-0.1342" y="-3" relative="1" as="geometry">
             <mxPoint x="-27.47" y="-4.04" as="offset" />
           </mxGeometry>
@@ -184,7 +189,7 @@
             <mxPoint x="540" y="348" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CKi8Rcar63tC_sLCUCNe-54" value="Multi-task" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;fontFamily=Times New Roman;" vertex="1" connectable="0" parent="CKi8Rcar63tC_sLCUCNe-45">
+        <mxCell id="CKi8Rcar63tC_sLCUCNe-54" value="Multi-task" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontFamily=Times New Roman;" vertex="1" connectable="0" parent="CKi8Rcar63tC_sLCUCNe-45">
           <mxGeometry x="-0.1723" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -195,7 +200,7 @@
             <mxPoint x="500" y="338" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CKi8Rcar63tC_sLCUCNe-55" value="+Genaration" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;fontFamily=Times New Roman;" vertex="1" connectable="0" parent="CKi8Rcar63tC_sLCUCNe-46">
+        <mxCell id="CKi8Rcar63tC_sLCUCNe-55" value="+Genaration" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontFamily=Times New Roman;" vertex="1" connectable="0" parent="CKi8Rcar63tC_sLCUCNe-46">
           <mxGeometry x="0.1991" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -206,7 +211,7 @@
             <mxPoint x="560" y="328" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CKi8Rcar63tC_sLCUCNe-56" value="Span prediction&lt;br&gt;Remove NSP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;fontFamily=Times New Roman;" vertex="1" connectable="0" parent="CKi8Rcar63tC_sLCUCNe-47">
+        <mxCell id="CKi8Rcar63tC_sLCUCNe-56" value="Span prediction&lt;br style=&quot;font-size: 14px;&quot;&gt;Remove NSP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontFamily=Times New Roman;" vertex="1" connectable="0" parent="CKi8Rcar63tC_sLCUCNe-47">
           <mxGeometry x="0.1406" y="2" relative="1" as="geometry">
             <mxPoint x="3.27" y="-21.94" as="offset" />
           </mxGeometry>
@@ -217,7 +222,7 @@
             <mxPoint x="560" y="338" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CKi8Rcar63tC_sLCUCNe-57" value="Longer time&lt;br&gt;Remove NSP&lt;br&gt;More data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;fontFamily=Times New Roman;" vertex="1" connectable="0" parent="CKi8Rcar63tC_sLCUCNe-48">
+        <mxCell id="CKi8Rcar63tC_sLCUCNe-57" value="Longer time&lt;br style=&quot;font-size: 14px;&quot;&gt;Remove NSP&lt;br style=&quot;font-size: 14px;&quot;&gt;More data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontFamily=Times New Roman;" vertex="1" connectable="0" parent="CKi8Rcar63tC_sLCUCNe-48">
           <mxGeometry x="0.3218" relative="1" as="geometry">
             <mxPoint x="3.23" y="18.13" as="offset" />
           </mxGeometry>
@@ -228,7 +233,7 @@
             <mxPoint x="590" y="318" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CKi8Rcar63tC_sLCUCNe-58" value="Premutation LM&lt;br&gt;Transformer-XL&lt;br&gt;More data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;fontFamily=Times New Roman;" vertex="1" connectable="0" parent="CKi8Rcar63tC_sLCUCNe-49">
+        <mxCell id="CKi8Rcar63tC_sLCUCNe-58" value="Premutation LM&lt;br style=&quot;font-size: 14px;&quot;&gt;Transformer-XL&lt;br style=&quot;font-size: 14px;&quot;&gt;More data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontFamily=Times New Roman;" vertex="1" connectable="0" parent="CKi8Rcar63tC_sLCUCNe-49">
           <mxGeometry x="0.5433" y="1" relative="1" as="geometry">
             <mxPoint x="-21.08" y="-57.44" as="offset" />
           </mxGeometry>
@@ -239,7 +244,7 @@
             <mxPoint x="610" y="298" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CKi8Rcar63tC_sLCUCNe-59" value="+Knowledge&lt;br&gt;Graph" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;fontFamily=Times New Roman;" vertex="1" connectable="0" parent="CKi8Rcar63tC_sLCUCNe-50">
+        <mxCell id="CKi8Rcar63tC_sLCUCNe-59" value="+Knowledge&lt;br style=&quot;font-size: 14px;&quot;&gt;Graph" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontFamily=Times New Roman;" vertex="1" connectable="0" parent="CKi8Rcar63tC_sLCUCNe-50">
           <mxGeometry x="0.5627" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -250,7 +255,7 @@
             <mxPoint x="630" y="268" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CKi8Rcar63tC_sLCUCNe-60" value="Cross-modal" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;fontFamily=Times New Roman;" vertex="1" connectable="0" parent="CKi8Rcar63tC_sLCUCNe-51">
+        <mxCell id="CKi8Rcar63tC_sLCUCNe-60" value="Cross-modal" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontFamily=Times New Roman;" vertex="1" connectable="0" parent="CKi8Rcar63tC_sLCUCNe-51">
           <mxGeometry x="0.5749" y="4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -261,7 +266,7 @@
             <mxPoint x="780" y="368" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CKi8Rcar63tC_sLCUCNe-61" value="Whole Word Masking" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;fontFamily=Times New Roman;" vertex="1" connectable="0" parent="CKi8Rcar63tC_sLCUCNe-52">
+        <mxCell id="CKi8Rcar63tC_sLCUCNe-61" value="Whole Word Masking" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontFamily=Times New Roman;" vertex="1" connectable="0" parent="CKi8Rcar63tC_sLCUCNe-52">
           <mxGeometry x="0.6405" relative="1" as="geometry">
             <mxPoint x="-64.72" y="-57.51" as="offset" />
           </mxGeometry>
@@ -299,6 +304,11 @@
             <mxPoint x="630" y="678" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="CKi8Rcar63tC_sLCUCNe-76" value="Neural entity linker" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontFamily=Times New Roman;" vertex="1" connectable="0" parent="CKi8Rcar63tC_sLCUCNe-71">
+          <mxGeometry x="0.22" y="1" relative="1" as="geometry">
+            <mxPoint x="-6" y="11" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="CKi8Rcar63tC_sLCUCNe-72" value="ERNIE&lt;br&gt;（百度）&lt;br&gt;BERT-wwm" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="861.83" y="533" width="128.17" height="40" as="geometry" />
         </mxCell>
@@ -307,6 +317,11 @@
         </mxCell>
         <mxCell id="CKi8Rcar63tC_sLCUCNe-74" value="XLNet" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="530" y="533" width="65" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CKi8Rcar63tC_sLCUCNe-77" value="Cross-lingual" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;fontFamily=Times New Roman;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-0.1342" y="-3" relative="1" as="geometry">
+            <mxPoint x="-27.47" y="-4.04" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
